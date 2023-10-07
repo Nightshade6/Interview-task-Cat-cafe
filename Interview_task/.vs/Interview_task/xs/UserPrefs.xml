@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E8E031F2-7CEA-D088-0F1C-1A53B1D94DFC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d8f1f65c-c735-40f0-8794-66a8434c3066" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShopSOs.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ShopSOs.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shopmanager.cs" Line="56" Column="29" />
+      <File FileName="Assets/Scripts/Newmove.cs" Line="33" Column="68" />
+      <File FileName="Assets/Scripts/Shopkeeper.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
